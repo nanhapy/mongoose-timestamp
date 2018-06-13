@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wanmendaxue/mongoose-timestamp"
+    "url": "git://github.com/nanhapy/mongoose-timestamp"
   },
   "devDependencies": {
     "mocha": "~2.5.3",
